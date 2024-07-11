@@ -4,6 +4,7 @@ go 1.21
 
 require (
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
+	github.com/Monkeyman520/gogfapi v0.0.0-20240709074502-25328944943f
 	github.com/agiledragon/gomonkey/v2 v2.11.0
 	github.com/argoproj/argo v0.0.0-20210119221932-53f022c3f740
 	github.com/aws/aws-sdk-go v1.44.233

@@ -272,6 +272,6 @@ func NewLocalMountFileSystem(properties map[string]interface{}) (UnderFileStorag
 }
 
 func init() {
-	RegisterUFS(common.GlusterFSType, NewLocalMountFileSystem)
+	// RegisterUFS(common.GlusterFSType, NewLocalMountFileSystem)
 	RegisterUFS(common.CFSType, NewLocalMountFileSystem)
 }

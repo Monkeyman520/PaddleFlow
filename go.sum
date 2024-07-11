@@ -49,6 +49,14 @@ github.com/Masterminds/semver/v3 v3.1.1 h1:hLg3sBzpNErnxhQtUy/mmLR2I9foDujNK030I
 github.com/Masterminds/semver/v3 v3.1.1/go.mod h1:VPu/7SZ7ePZ3QOrcuXROw5FAcLl4a0cBrbBpGY/8hQs=
 github.com/Microsoft/go-winio v0.5.0 h1:Elr9Wn+sGKPlkaBvwu4mTrxtmOp3F3yV9qhaHbXGjwU=
 github.com/Microsoft/go-winio v0.5.0/go.mod h1:JPGBdM1cNvN/6ISo+n8V5iA4v8pBzdOpzfwIujj1a84=
+github.com/Monkeyman520/gogfapi v0.0.0-20240313072220-38a355857901 h1:C+wESnB4m4wrNleMlOfQIm8y39kbpoBW6tGKOocFK+k=
+github.com/Monkeyman520/gogfapi v0.0.0-20240313072220-38a355857901/go.mod h1:aM7V0aHiyfw40yLh7gmbOUYA9jgfaFkNClLTezN9Mek=
+github.com/Monkeyman520/gogfapi v0.0.0-20240709065417-209302fdf202 h1:p5/SujZBuMBONZRmOTYCSCkS/45gd3PveYEVnQciLC8=
+github.com/Monkeyman520/gogfapi v0.0.0-20240709065417-209302fdf202/go.mod h1:aM7V0aHiyfw40yLh7gmbOUYA9jgfaFkNClLTezN9Mek=
+github.com/Monkeyman520/gogfapi v0.0.0-20240709072611-a0cc25d0af02 h1:3jI8zvC+M6lXT7EpqfdZ9SdgM88lOluWwXnafQVd494=
+github.com/Monkeyman520/gogfapi v0.0.0-20240709072611-a0cc25d0af02/go.mod h1:aM7V0aHiyfw40yLh7gmbOUYA9jgfaFkNClLTezN9Mek=
+github.com/Monkeyman520/gogfapi v0.0.0-20240709074502-25328944943f h1:0cuMmHEXBQKTjGdYLm6OhisoLasPZIQhdyTzpOyT8NQ=
+github.com/Monkeyman520/gogfapi v0.0.0-20240709074502-25328944943f/go.mod h1:aM7V0aHiyfw40yLh7gmbOUYA9jgfaFkNClLTezN9Mek=
 github.com/NYTimes/gziphandler v0.0.0-20170623195520-56545f4a5d46/go.mod h1:3wb06e3pkSAbeQ52E9H9iFoQsEEwGN64994WTCIhntQ=
 github.com/OneOfOne/xxhash v1.2.2 h1:KMrpdQIwFcEqXDklaen+P1axHaj9BSKzvpUUfnHldSE=
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=

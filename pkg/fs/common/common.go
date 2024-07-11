@@ -81,6 +81,9 @@ const (
 	Address  = "address"
 	Password = "password"
 
+	// GlusterFS properties
+	Volume = "volume"
+
 	// mock properties
 	PVC       = "pvc"
 	Namespace = "namespace"
